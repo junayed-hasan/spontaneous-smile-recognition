@@ -61,6 +61,19 @@ This command trains the model using fold 0 of the UVA-NEMO dataset. The trained 
 
 Our model achieves state-of-the-art results on four well-known smile datasets: UvA-NEMO, BBC, MMI facial expression, and SPOS datasets. Detailed results and comparisons can be found in our paper (link to be added upon publication).
 
+## Citation
+```bash
+@article{HASAN2024,
+title = {DeepMarkerNet: Leveraging supervision from the Duchenne Marker for spontaneous smile recognition},
+journal = {Pattern Recognition Letters},
+year = {2024},
+issn = {0167-8655},
+doi = {https://doi.org/10.1016/j.patrec.2024.09.015},
+url = {https://www.sciencedirect.com/science/article/pii/S0167865524002770},
+author = {Mohammad Junayed Hasan and Kazi Rafat and Fuad Rahman and Nabeel Mohammed and Shafin Rahman}
+}
+```
+
 ## Contributing
 
 We welcome contributions to improve DeepMarkerNet. Please feel free to submit issues and pull requests.
