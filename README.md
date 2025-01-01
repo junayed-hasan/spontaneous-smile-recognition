@@ -85,7 +85,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any queries regarding the code or paper, please open an issue or contact Mohammad Junayed Hasan (mailto:junayedhasan100@gmail.com).
+For any queries regarding the code or paper, please open an issue or contact Mohammad Junayed Hasan (junayedhasan100@gmail.com).
 
 ---
 
